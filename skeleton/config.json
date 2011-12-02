@@ -1,16 +1,16 @@
 {
   "site" : {
-    "title" : "My LooseLeaf"
+    "title" : "flyingfay的空间"
   },
   "copyright" : {
-    "title" : "Your site",
-    "uri" : "http://example.com/"
+    "title" : "flyingfay",
+    "uri" : "http://flyingfay.cnodejs.net/"
   },
   "session" : {
-    "secret" : "Unique string"
+    "secret" : "junyulai"
   },
   "process" : {
-    "port" : "3000",
+    "port" : "80",
     "logging" : true
   },
   "analytics_id" : "",
